@@ -15,4 +15,5 @@ int main()
       }
   cout<<sum<<endl;
    cout<<"The difference of numbers is"<<a-b<<endl;
+   cout<<"The multiplication of numbers is"<<a*b<<endl;
 }
