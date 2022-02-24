@@ -15,4 +15,11 @@ int main()
       }
   cout<<sum<<endl;
    cout<<"The difference of numbers is"<<a-b<<endl;
+   cout<<"The multiplication of numbers is"<<a*b<<endl;
+  int mul=1;
+   for(int i=0;i<(sizeof(arr)/sizeof(arr[0]));i++)
+      {
+        mul*=arr[i];
+      }
+  cout<<mul<<endl;
 }
