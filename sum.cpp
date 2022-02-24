@@ -22,4 +22,6 @@ int main()
         mul*=arr[i];
       }
   cout<<mul<<endl;
+  //End of code add return statement
+ return 0;
 }
