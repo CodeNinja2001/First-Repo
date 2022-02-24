@@ -14,4 +14,5 @@ int main()
         sum+=arr[i];
       }
   cout<<sum<<endl;
+   cout<<"The difference of numbers is"<<a-b<<endl;
 }
